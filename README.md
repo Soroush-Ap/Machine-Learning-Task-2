@@ -1,6 +1,6 @@
 # Machine Learning Task 2
 
-This repository contains my submission for **Machine Learning 1 - Task 2**.
+This repository contains I and my Patner's submission for **Machine Learning 1 - Task 2**.
 
 ## Task Objective
 
